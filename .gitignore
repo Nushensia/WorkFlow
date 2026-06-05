@@ -1,0 +1,21 @@
+# Данные / отчёты (только локально, не на GitHub)
+Отчеты/
+Анализ документов/
+*.xlsx
+*.xls
+*.pdf
+*.docx
+*.doc
+*.pptx
+
+# Python 
+__pycache__/
+*.pyc
+*.pyo
+
+# Временные файлы
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
